@@ -11,7 +11,7 @@ public class FizzBuzz {
 			}else if (numero % 3 == 0) {   // se il numero è divisibile per 3
 				System.out.println("Fizz");  //stampa Fizz
 			}else if (numero % 5 == 0) {  // se il numero è divisibile per 5
-				System.out.println("Buzz");  //stampa Buzz
+				System.out.println("Ciao, sono un numero divisibile per 5");  //stampa Ciao, sono un numero divisibile per 5
 			}else {
 				System.out.println(numero);  //Altrimenti stampa il numero (in cifra)
 			}
